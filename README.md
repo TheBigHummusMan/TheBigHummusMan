@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheBigHummusMan
-- 👀 I’m interested in 7
+- 👀 I’m interested in ak-47
 - 🌱 I’m currently learning AK-47 regiment
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me is with camel
