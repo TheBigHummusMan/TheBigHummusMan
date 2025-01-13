@@ -1,5 +1,5 @@
-- Hi, I’m @TheBigHummusMa
-- I'm a student at uottawa in computer science
+- Hi, I’m Ethan
+- I'm a computer science student at the universsity of Ottawa
   
 <!---
 TheBigHummusMan/TheBigHummusMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
